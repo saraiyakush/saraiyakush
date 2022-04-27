@@ -1,4 +1,4 @@
-### A passionate Engineering Manager who loves to build scalable systems with simple design that can tackle the most complex problems :sunglasses:
+### A passionate technology enthusiast who loves to build scalable systems with simple design to tackle the most complex problems :sunglasses:
 
 #### Profile Links:
 - [LinkedIn](https://www.linkedin.com/in/kushsaraiya/)
