@@ -2,7 +2,7 @@
 
 #### Profile Links:
 - [LinkedIn](https://www.linkedin.com/in/kushsaraiya/)
-- [Medium](medium.com/@kush.saraiya)
+- [Medium](https://medium.com/@kush.saraiya)
 
 <!--
 **saraiyakush/saraiyakush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
